@@ -4,7 +4,7 @@ module.exports = {
     description: 'Vite & Vue powered static site generator.',
 
     themeConfig: {
-        repo: 'ghostletters/vitepress_docs',
+        repo: 'ghostletters/docs',
         docsDir: 'docs',
 
         editLinks: true,
