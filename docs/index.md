@@ -6,7 +6,7 @@ editLink: true
 
 # Hello VitePress
 
-Test update.
+Test update 2.
 
 ## Sub 1
 
