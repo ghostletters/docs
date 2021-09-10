@@ -43,8 +43,6 @@ Log into server `ssh <username>@ghostletters.xyz`
 Clone the github repo:
 ```bash
 cd ~/github
-mkdir <subdomain>
-cd <subdomain>
 git clone <repo https link>
 ```
 
