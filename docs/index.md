@@ -1,5 +1,5 @@
 ---
-title: Docs with VitePress
+title: Setup Subdomain For ghostletters.xyz
 editLink: true
 ---
 
@@ -83,8 +83,9 @@ Configure file_server to location of files.
   log { }
 }
 ```
--
-  - add path for webhook (see also [this blog post](https://blog.ghostletters.xyz/notes/2020/4/4/))
+
+- add path for webhook (see also [this blog post](https://blog.ghostletters.xyz/notes/2020/4/4/))
+
 ```js
 ghostletters.xyz {
   route {

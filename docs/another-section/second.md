@@ -1,10 +1,10 @@
 ---
-title: Docs with VitePress
+title: Another Example Title
 editLink: true
 ---
 
 
-# Hello Test
+# Another Example Article
 
 Some foobar here.
 
