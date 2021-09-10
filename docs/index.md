@@ -48,7 +48,7 @@ cd <subdomain>
 git clone <repo https link>
 ```
 
-Create a script that runs the refresh logic of the webhook / git push. Example:
+Create a script that runs the refresh logic of the webhook / git push. `touch ~/refresh_<subdomain>.sh`. Content:
 
 ```bash
 #!/bin/sh
