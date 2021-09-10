@@ -22,7 +22,7 @@ Notes after adding `docs.` subdomain to ghostletters.xyz.
 
 So far my content is always backed by a git repository. Pushing to the repo should update my site.
 
-- create new repository at [github.com/ghostletters](github.com/ghostletters)
+- create new repository at [github.com/ghostletters](https://github.com/ghostletters)
   - add README.md, LICENSE and .gitignore file
 - add webbhook via __Settings__ -> __Webhooks__
 - press __Add webhook__
