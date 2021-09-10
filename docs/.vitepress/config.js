@@ -5,6 +5,7 @@ module.exports = {
 
     themeConfig: {
         repo: 'ghostletters/docs',
+        docsBranch: 'main',
         docsDir: 'docs',
 
         editLinks: true,
